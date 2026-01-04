@@ -1,0 +1,7 @@
+{
+  "name": "ZenStance - 站桩打卡",
+  "description": "A minimalist, Zen-inspired application for tracking Zhan Zhuang (standing meditation) sessions, featuring a built-in timer, progress tracking with visual charts, and AI-powered stance guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
